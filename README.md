@@ -34,3 +34,9 @@ Para usar este proyecto en tu entorno local, sigue estos pasos:
 
    ```bash
    git clone https://github.com/NegativeCloudy/Generador-de-Contrase-as-Seguras.git
+
+## Créditos
+
+**Copyright**: Desarrollado por **NegativeCloudy**.  
+**Discord**: [NegativeCloud]
+Gracias por visitar este repositorio y por utilizar el **Generador de Contraseñas Seguras**.
