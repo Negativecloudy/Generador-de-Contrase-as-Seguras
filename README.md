@@ -33,4 +33,4 @@ Para usar este proyecto en tu entorno local, sigue estos pasos:
 1. **Clona el repositorio** en tu máquina local:
 
    ```bash
-   git clone https://github.com/TuUsuario/Generador-Contraseñas-Seguras.git
+   git clone https://github.com/NegativeCloudy/Generador-de-Contrase-as-Seguras.git
