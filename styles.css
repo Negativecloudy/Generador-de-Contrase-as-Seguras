@@ -1,0 +1,68 @@
+/* styles.css */
+body {
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f9;
+  margin: 0;
+}
+
+.container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 300px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.password-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.password {
+  width: 70%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.btn-copy, .btn-generate {
+  padding: 10px 15px;
+  font-size: 16px;
+  border: none;
+  background-color: #4CAF50;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.btn-copy:hover, .btn-generate:hover {
+  background-color: #45a049;
+}
+
+.options {
+  margin: 20px 0;
+}
+
+input[type="number"] {
+  padding: 5px;
+  font-size: 16px;
+  width: 100px;
+  margin: 10px 0;
+}
+
+input[type="checkbox"] {
+  margin-right: 10px;
+}
